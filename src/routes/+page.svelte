@@ -28,7 +28,7 @@
   {/if}
 
   <div
-    class="relative p-5 z-10 m-auto grid grid-cols-1 lg:grid-cols-3 w-full lg:w-230 justify-items-center gap-4"
+    class="relative pt-5 z-10 m-auto grid grid-cols-1 lg:grid-cols-3 w-full lg:w-230 justify-items-center gap-4"
   >
     <Header />
     <Stats />

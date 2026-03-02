@@ -21,8 +21,8 @@
       pr-2
       text-sm
       text-shadow-lg
-      font-light
-      text-white/90
+      font-normal
+      text-white/95
       max-lg:justify-items-center
     "
   >
@@ -41,14 +41,14 @@
       "
     >
       <a href="/projects" class="flex h-full items-center">
-        <span class="mr-2 ml-2">Currently Hired</span>
+        <span class="mr-2 ml-2 text-2xl">Currently Hired</span>
       </a>
     </div>
 
     <!-- button1 -->
-    <div class="w-full max-lg:bg-black/40 max-lg:p-2">
+    <div class="w-full max-lg:bg-black/100 max-lg:p-2">
       <a href="/projects" class="flex h-full items-center">
-        <span class="text-sm mr-2 ml-2">Projects</span>
+        <span class="mr-2 ml-2">Projects</span>
         <span class="text-gray-400">53</span>
       </a>
     </div>

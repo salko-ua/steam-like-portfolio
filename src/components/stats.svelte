@@ -26,11 +26,14 @@
     >
       <span class="font-light text-2xl"><a href="/age">Age</a></span>
       <div
-        class="flex h-8 w-8 text-center items-center justify-center
-            rounded-full border-[2px] border-sky-500
-            font-light text-sm"
+        class="relative flex h-9 w-9
+            rounded-full border-[2px] border-purple-500
+            font-light text-lg"
       >
-        <span>19</span>
+        <span
+          class="absolute top-[50%] left-[49%] -translate-x-1/2 -translate-y-1/2"
+          >19</span
+        >
       </div>
     </div>
     <div
