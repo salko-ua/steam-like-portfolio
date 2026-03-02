@@ -27,7 +27,7 @@
     <img alt="portrayal" src={asset("/pfp.jpg")} class="size-full" />
   </div>
   <!-- name -->
-  <div class="flex flex-col pl-4 pt-2">
+  <div class="flex flex-col lg:pl-4 lg:pt-2">
     <div class="text-white font-light text-2xl mb-2">SALO</div>
     <div class="text-gray-300 text-xs mb-4 ml-2">
       🇺🇦 Volodymyr, Volyn', Ukraine
