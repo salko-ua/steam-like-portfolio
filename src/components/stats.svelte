@@ -1,7 +1,7 @@
 <script>
   import { asset } from "$app/paths";
 
-import ContactMe from "../components/contact_me.svelte";
+  import ContactMe from "../components/contact_me.svelte";
 </script>
 
 <div
@@ -18,7 +18,7 @@ import ContactMe from "../components/contact_me.svelte";
 >
   <div
     class="flex items-start justify-between max-lg:justify-around gap-4
-          max-lg:order-2 lg:flex-col max-lg:p-2 max-lg:pl-4 max-lg:pr-4 max-lg:bg-black/40 max-lg:backdrop-blur-sm"
+          max-lg:order-2 lg:flex-col max-lg:p-2 max-lg:pl-4 max-lg:pr-4 max-lg:bg-black/40"
   >
     <div
       class="flex h-fit max-lg:h-full items-center gap-2 text-4xl
