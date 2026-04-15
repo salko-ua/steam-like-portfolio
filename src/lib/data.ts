@@ -38,7 +38,7 @@ export const portfolioData = {
   },
   stats: {
     age: {
-      value: 19,
+      value: 20,
       link: "/age", // Consider implementing this page or removing the link
     },
     projectsXP: {
