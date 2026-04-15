@@ -10,6 +10,6 @@
 >
   {title}
   <a href={link}>
-    <img src={portfolioData.githubShowcase.imageSrc} alt={altText} />
+    <img src={link} alt={altText} />
   </a>
 </div>
