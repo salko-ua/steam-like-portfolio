@@ -35,7 +35,7 @@
     <Stats />
     <GitHubShowcase
       title="GitHub Showcase"
-      link="https://raw.githubusercontent.com/salko-ua/salko-ua/main/dark_mode.svg"
+      link="https://raw.githubusercontent.com/salko-ua/salko-ua/main/vertical.svg"
       altText="Dark Mode Toggle"
     />
     <SideMenu />
